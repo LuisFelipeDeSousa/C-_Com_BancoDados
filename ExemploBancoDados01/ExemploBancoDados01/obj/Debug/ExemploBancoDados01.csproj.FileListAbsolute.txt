@@ -1,0 +1,12 @@
+c:\users\105411\documents\visual studio 2013\Projects\ExemploBancoDados01\ExemploBancoDados01\bin\Debug\ExemploBancoDados01.exe.config
+c:\users\105411\documents\visual studio 2013\Projects\ExemploBancoDados01\ExemploBancoDados01\bin\Debug\ExemploBancoDados01.exe
+c:\users\105411\documents\visual studio 2013\Projects\ExemploBancoDados01\ExemploBancoDados01\bin\Debug\ExemploBancoDados01.pdb
+c:\users\105411\documents\visual studio 2013\Projects\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.csprojResolveAssemblyReference.cache
+c:\users\105411\documents\visual studio 2013\Projects\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.Form1.resources
+c:\users\105411\documents\visual studio 2013\Projects\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.Properties.Resources.resources
+c:\users\105411\documents\visual studio 2013\Projects\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.csproj.GenerateResource.Cache
+c:\users\105411\documents\visual studio 2013\Projects\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.exe
+c:\users\105411\documents\visual studio 2013\Projects\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.pdb
+C:\Users\105411\Documents\GitHub\C-_Com_BancoDados\ExemploBancoDados01\ExemploBancoDados01\bin\Debug\ExemploBancoDados01.exe.config
+C:\Users\105411\Documents\GitHub\C-_Com_BancoDados\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.exe
+C:\Users\105411\Documents\GitHub\C-_Com_BancoDados\ExemploBancoDados01\ExemploBancoDados01\obj\Debug\ExemploBancoDados01.pdb
